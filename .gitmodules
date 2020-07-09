@@ -1,0 +1,6 @@
+[submodule "MedilinkupApps/medilinkup-api"]
+	path = MedilinkupApps/medilinkup-api
+	url = https://github.com/effiongcharles/medilinkup-api.git
+[submodule "MedilinkupApps/medilinkup-web"]
+	path = MedilinkupApps/medilinkup-web
+	url = https://github.com/effiongcharles/medilinkup-web.git
